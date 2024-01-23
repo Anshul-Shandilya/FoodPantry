@@ -3,21 +3,10 @@
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Project team
-Well that's a name
-
+Null Pointer Exception
 ### Instructor
-Prof. Andrew Bond
-
-### Team members 
-Ujwala Mote – 016711396
-Chinmayi Sunku - 016672851
-Jack Kalavadia - 016197519
-Suma Nagral - 016718611
-Rutvik Moradiya - 016656367
-
-### demo video: https://drive.google.com/file/d/1yvlxYcd8E6tASI7gHVxCc0Q3JdigNZxi/view?usp=share_link
-### link: http://sjsupantry.hackjack.host/
-
+Prof. Paul Nguyen
+CMPE 202
 
 ### Project goals and objectives
 
@@ -44,13 +33,6 @@ cd client && npm install
 
 
 cd server && npm install
-
-### GIF
-![final_video_AdobeExpress](https://user-images.githubusercontent.com/112538639/205581427-abd6891e-4c02-4f6a-b348-a85ca00e04b2.gif)
-
-`
-![final_video_AdobeExpress (1)](https://user-images.githubusercontent.com/112538639/205583212-d023e5a4-3dce-4442-b7c6-166f284ce9c5.gif)
-
 
 
 ### Running the app
